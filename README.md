@@ -6,8 +6,8 @@ A list of blockchain workshops developed by @BrianSeong99
 - **Unified Bridge Example in ThirdWeb**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular SmartContracts.
 
 ## Plonky3 Workshops
-- **Plonky3 Introduction & Fibonacci Example**[[Github](https://github.com/BrianSeong99/plonky3_fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
-- **Plonky3 Constraint Degree Introduction & RangeCheck implementation**[[Video](https://www.youtube.com/watch?v=ifMXu8AL8_E)][[Tweet](https://x.com/0xPolygonFdn/status/1846747684348010609)][[Github](https://github.com/BrianSeong99/plonky3_rangecheck)]: This repo introduces concepts on constraint degree and optimization technics, as well as example implementations of Range Checks using Plonky3.
+- **Plonky3 Introduction & Fibonacci Example**[[Github](https://github.com/BrianSeong99/Plonky3_Intro_and_Fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
+- **Plonky3 Constraint Degree Introduction & RangeCheck implementation**[[Video](https://www.youtube.com/watch?v=ifMXu8AL8_E)][[Tweet](https://x.com/0xPolygonFdn/status/1846747684348010609)][[Github](https://github.com/BrianSeong99/Plonky3_ConstraintDegree_and_RangeCheck)]: This repo introduces concepts on constraint degree and optimization technics, as well as example implementations of Range Checks using Plonky3.
 
 ## PoS Workshops
 - **PoS Milestones**[[Video](https://www.youtube.com/watch?v=BEuEwF5lBEc)][[Tweet](https://x.com/0xPolygon/status/1836786281948283342)][[Github](https://github.com/BrianSeong99/Polygon-PoS-Milestones_Tutorial)]: THis repo explains the design upgrade of PoS on Faster Finality and showcases how to use Miletsones for Dapps to get faster updates from chain.
