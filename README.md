@@ -4,7 +4,7 @@ A list of blockchain workshops developed by @BrianSeong99
 ## AggLayer
 - [x] **Unified Bridge**[[Tweet](https://x.com/BrianSeong99/status/1857518126633816175)][[Github](https://github.com/BrianSeong99/AggLayer_UnifiedBridge)]: This repo explains the design and usage of Unified Bridge and Bridge-and-Call.
 - [ ] **Unified Bridge Examples using ThirdWeb Modular Smart Contracts**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular Smart Contracts.
-- [ ] **Pessimistic Proof Walkthrough**: This repo explains the design and the usage of Pessimistic Proof in AggLayer. It compares the bench performance of running pessimistic proof in SP1, Valida, and Risc0 zkVMs.
+- [ ] **Pessimistic Proof Walkthrough & bench on various zkVMs**: This repo explains the design and the usage of Pessimistic Proof in AggLayer. It compares the bench performance of running pessimistic proof in SP1, Valida, and Risc0 zkVMs.
 
 ## Polygon Plonky3
 ### Chapter Zero: Plonky3 Intro
