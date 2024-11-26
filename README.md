@@ -8,9 +8,9 @@ A list of blockchain workshops developed by @BrianSeong99
 
 ## Polygon Plonky3
 ### Chapter Zero: Plonky3 Intro
-- [x] **Plonky3 Introduction & Fibonacci Example**[[Github](https://github.com/BrianSeong99/Plonky3_Fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
+- [x] **Plonky3 Fibonacci & Introduction**[[Github](https://github.com/BrianSeong99/Plonky3_Fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
 ### Chapter One: Constraints in Plonky3
-- [x] **Plonky3 RangeCheck implementation & Constraint Degree**[[Video](https://www.youtube.com/watch?v=ifMXu8AL8_E)][[Tweet](https://x.com/0xPolygonFdn/status/1846747684348010609)][[Github](https://github.com/BrianSeong99/Plonky3_RangeCheck)]: This repo introduces concepts on constraint degree and optimization technics, as well as example implementations of Range Checks using Plonky3.
+- [x] **Plonky3 RangeCheck & Constraint Degree**[[Video](https://www.youtube.com/watch?v=ifMXu8AL8_E)][[Tweet](https://x.com/0xPolygonFdn/status/1846747684348010609)][[Github](https://github.com/BrianSeong99/Plonky3_RangeCheck)]: This repo introduces concepts on constraint degree and optimization technics, as well as example implementations of Range Checks using Plonky3.
 - [ ] **Plonky3 Static Lookups & Keccak Hash implementation**: This repo introduces concepts on Static Lookups in AIR constraints, as well as example implementations of Keccak Hash functions using Plonky3.
 
 ## Polygon Miden
