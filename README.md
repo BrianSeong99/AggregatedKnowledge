@@ -11,7 +11,7 @@ A list of blockchain workshops developed by @BrianSeong99
 - [x] **Plonky3 Fibonacci & Introduction**[[Github](https://github.com/BrianSeong99/Plonky3_Fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
 ### Chapter One: Constraints in Plonky3
 - [x] **Plonky3 RangeCheck & Constraint Degree**[[Video](https://www.youtube.com/watch?v=ifMXu8AL8_E)][[Tweet](https://x.com/0xPolygonFdn/status/1846747684348010609)][[Github](https://github.com/BrianSeong99/Plonky3_RangeCheck)]: This repo introduces concepts on constraint degree and optimization technics, as well as example implementations of Range Checks using Plonky3.
-- [ ] **Plonky3 Static Lookups & Keccak Hash implementation**: This repo introduces concepts on Static Lookups in AIR constraints, as well as example implementations of Keccak Hash functions using Plonky3.
+- [ ] **Plonky3 Keccak Hash & Static Lookups**: This repo introduces concepts on Static Lookups in AIR constraints, as well as example implementations of Keccak Hash functions using Plonky3.
 
 ## Polygon Miden
 - [ ] **Dark Pool Implementation in Miden & Miden's Notes Design**: This repo covers the mechanism of Miden Note data structure, and showcases a simple implementation of Dark Pool Protocol implmented in Rust on Miden.
