@@ -24,7 +24,7 @@ A list of blockchain workshops developed by @BrianSeong99
 - [ ] **Dark Pool Implementation in Miden & Miden's Notes Design**: This repo covers the mechanism of Miden Note data structure, and showcases a simple implementation of Dark Pool Protocol implmented in Rust on Miden.
 
 ## Polygon PoS
-- [x] **PoS Milestones for FAST finality**[[Video](https://www.youtube.com/watch?v=BEuEwF5lBEc)][[Tweet](https://x.com/0xPolygon/status/1836786281948283342)][[Github](https://github.com/BrianSeong99/Polygon-PoS-Milestones_Tutorial)]: THis repo explains the design upgrade of PoS on Faster Finality and showcases how to use Miletsones for Dapps to get faster updates from chain.
+- [x] **PoS Milestones for FAST finality**[[Video](https://www.youtube.com/watch?v=BEuEwF5lBEc)][[Tweet](https://x.com/0xPolygon/status/1836786281948283342)][[Github](https://github.com/BrianSeong99/PolygonPoS_Milestones)]: THis repo explains the design upgrade of PoS on Faster Finality and showcases how to use Miletsones for Dapps to get faster updates from chain.
 - [ ] **King of the Hill: Polygon PoS + Polymarket**: This repo covers the reason why Polygon PoS is so performant and stable to host world first mass adoption dapp PolyMarket.
 
 ## Privado ID
