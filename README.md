@@ -2,6 +2,7 @@
 A list of blockchain workshops developed by @BrianSeong99
 
 ## AggLayer
+- [ ] **AggLayer Overview - Zero to Hero**: The overview of AggLayer tech and the main components that makes AggLayer Ticks.
 ### Unified Bridge
 - [x] **Unified Bridge & Bridge-and-Call**[[Tweet](https://x.com/BrianSeong99/status/1857518126633816175)][[Github](https://github.com/BrianSeong99/AggLayer_UnifiedBridge)]: This repo explains the design and usage of Unified Bridge and Bridge-and-Call.
 - [ ] **Unified Bridge Examples using ThirdWeb Modular Smart Contracts**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular Smart Contracts.
