@@ -3,15 +3,14 @@ A list of blockchain workshops developed by @BrianSeong99
 
 ## AggLayer
 - [ ] **AggLayer Overview - Zero to Hero**: The overview of AggLayer tech and the main components that makes AggLayer Ticks.
-### Unified Bridge
+### AggLayer Components Explained
 - [x] **Unified Bridge & Bridge-and-Call**[[Tweet](https://x.com/BrianSeong99/status/1857518126633816175)][[Github](https://github.com/BrianSeong99/AggLayer_UnifiedBridge)]: This repo explains the design and usage of Unified Bridge and Bridge-and-Call.
-- [ ] **Unified Bridge Examples using ThirdWeb Modular Smart Contracts**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular Smart Contracts.
-### Pessimistic Proof
 - [ ] **Pessimistic Proof Walkthrough & bench on various zkVMs**: This repo explains the design and the usage of Pessimistic Proof in AggLayer. It compares the bench performance of running pessimistic proof in SP1, Valida, and Risc0 zkVMs.
-### Proof Aggregation
-- [ ] **Aggregating Block Proofs**: Proofs across all chains are aggregated along with the pessimistic proof to amortize costs.
-### Fast Interop
-- [ ] **Achieve Fast Interop on AggLayer**: Allows for interoperability at a latency lower than Ethereum finality
+- [ ] **Fast Interop on AggLayer**: Allows for interoperability at a latency lower than Ethereum finality
+- [ ] **Proof Aggregation on AggLayer**: Proofs across all chains are aggregated along with the pessimistic proof to amortize costs.
+- [ ] **AggLayer Service**: Dive into the Production Services that AggLayer provides for all chains and Developers.
+### AggLayer Handson
+- [ ] **Unified Bridge Examples using ThirdWeb Modular Smart Contracts**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular Smart Contracts.
 
 ## Polygon Plonky3
 ### Chapter Zero: Plonky3 Intro
