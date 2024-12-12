@@ -30,3 +30,4 @@ A list of blockchain workshops developed by @BrianSeong99
 
 ## Privado ID
 - [ ] **Register your AI Agent to the world via Privado ID**: This repo showcase how to use Privado ID to register a Unique Identity for your own AI Agent.
+- [ ] **Don't Let Trump Cheat**[[Reference](https://x.com/elonmusk/status/1867072151934677231)]: This project implements a identity system for US Elections. Get your vote counted today!
