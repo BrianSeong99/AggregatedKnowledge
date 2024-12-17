@@ -15,6 +15,7 @@ A list of blockchain workshops developed by @BrianSeong99
 - [ ] **Cross-chain Dex on AggLayer**: This repo showcase how to use Unified Bridge Interface to build a AggLayer Native cross-chain Dex.
 
 ## Polygon Plonky3
+- [x] **Awesome Plonky3**[[Tweet]()][[Github](https://github.com/Plonky3/awesome-plonky3)]: This repo is a curated list of Polygon Plonky3 resources, libraries, tools and more.
 ### Chapter Zero: Plonky3 Intro
 - [x] **Plonky3 Fibonacci & Introduction**[[Github](https://github.com/BrianSeong99/Plonky3_Fibonacci)]: This repo introduces Plonky3 and showcases a simple implementation of fibonacci constraints and execution trace.
 ### Chapter One: Constraints in Plonky3
