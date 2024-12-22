@@ -5,7 +5,7 @@ A list of blockchain workshops developed by @BrianSeong99
 - [ ] **AggLayer Overview - Zero to Hero**: The overview of AggLayer tech and the main components that makes AggLayer Ticks.
 ### AggLayer Components Explained
 - [x] **Unified Bridge & Bridge-and-Call**[[Tweet](https://x.com/BrianSeong99/status/1857518126633816175)][[Github](https://github.com/BrianSeong99/AggLayer_UnifiedBridge)]: This repo explains the design and usage of Unified Bridge and Bridge-and-Call.
-- [x] **Pessimistic Proof Walkthrough & bench on various zkVMs**[[Tweet]()][[Github](https://github.com/BrianSeong99/AggLayer_PessimisticProof)]: This repo explains the design and the usage of Pessimistic Proof in AggLayer. It compares the bench performance of running pessimistic proof in SP1, Valida, and Risc0 zkVMs.
+- [x] **Pessimistic Proof Walkthrough & bench on various zkVMs**[[Tweet]()][[Github](https://github.com/BrianSeong99/AggLayer_PessimisticProof)]: This repo explains the design and the usage of Pessimistic Proof in AggLayer. It compares the bench performance of running pessimistic proof in SP1, Valida, OpenVM, and Risc0 zkVMs.
 - [ ] **AggLayer Node**: This repo explains the design the and usage of AggLayer Node in AggLayer. 
 - [ ] **Fast Interop on AggLayer**: Allows for interoperability at a latency lower than Ethereum finality
 - [ ] **Proof Aggregation on AggLayer**: Proofs across all chains are aggregated along with the pessimistic proof to amortize costs.
