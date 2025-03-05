@@ -9,10 +9,9 @@ A list of blockchain workshops developed by @BrianSeong99
 - [ ] **AggLayer Node**: This repo explains the design the and usage of AggLayer Node in AggLayer. 
 - [ ] **Fast Interop on AggLayer**: Allows for interoperability at a latency lower than Ethereum finality
 - [ ] **Proof Aggregation on AggLayer**: Proofs across all chains are aggregated along with the pessimistic proof to amortize costs.
-- [ ] **AggLayer Service**: Dive into the Production Services that AggLayer provides for all chains and Developers.
+- [x] **Aggkit** [[Tweet]()][[Github](https://github.com/BrianSeong99/Agglayer_Aggkit)]: Explains the design and the usage of Aggkit in AggLayer.
 ### AggLayer Handson
 - [ ] **Unified Bridge Examples using ThirdWeb Modular Smart Contracts**: This repo showcase how to use Unified Bridge Interface via ThirdWeb Modular Smart Contracts.
-- [ ] **Cross-chain Dex on AggLayer**: This repo showcase how to use Unified Bridge Interface to build a AggLayer Native cross-chain Dex.
 
 ## Polygon Plonky3
 - [x] **Awesome Plonky3**[[Tweet](https://x.com/BrianSeong99/status/1869065095894163930)][[Github](https://github.com/Plonky3/awesome-plonky3)]: This repo is a curated list of Polygon Plonky3 resources, libraries, tools and more.
